@@ -1,0 +1,13 @@
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.exe
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.deps.json
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.runtimeconfig.json
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.runtimeconfig.dev.json
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.dll
+D:\baitap\XDLopQuadraticEquation-\bin\Debug\netcoreapp3.1\XDLopQuadraticEquation-.pdb
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.csprojAssemblyReference.cache
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.AssemblyInfoInputs.cache
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.AssemblyInfo.cs
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.csproj.CoreCompileInputs.cache
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.dll
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.pdb
+D:\baitap\XDLopQuadraticEquation-\obj\Debug\netcoreapp3.1\XDLopQuadraticEquation-.genruntimeconfig.cache
